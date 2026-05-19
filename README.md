@@ -2,7 +2,7 @@
 
 CodeSensei is a premium, single-page, serverless AI coding assistant wrapped in a high-contrast Cyberpunk visual aesthetic. Built entirely using Vanilla HTML, CSS, and JavaScript, CodeSensei leverages the power of Groq's high-speed inference API (`llama-3.3-70b-versatile`) to instantly analyze, execute, and synthesize code architectures without the need for a dedicated backend compiler.
 
-# link to our site: https://muskan6122005.github.io/CodeSensei/
+# link to our site: https://captainramen35-lgtm.github.io/CodeSensei/
 
 ## 🚀 Features
 
